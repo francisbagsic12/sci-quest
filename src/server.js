@@ -25,7 +25,7 @@ const allowedOrigins = [
   "http://127.0.0.1:5173",
   "https://sciquest2.netlify.app",
   "https://sciquest2.netlify.app/login",
-  "https://sci-quest-v2.netlify.app/",
+  "https://sci-quest-v2.netlify.app",
   "https://sci-quest.onrender.com"
 ];
 
