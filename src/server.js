@@ -20,9 +20,7 @@ app.use(helmet());
 
 // CORS configuration - allow multiple origins in development
 const allowedOrigins = [
-  "http://localhost:3000",
-  "http://localhost:5173",
-  "http://127.0.0.1:5173",
+
   "https://sciquest2.netlify.app",
   "https://sciquest2.netlify.app/login",
   "https://sci-quest-v2.netlify.app",
